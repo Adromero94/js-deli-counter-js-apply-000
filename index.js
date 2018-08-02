@@ -1,1 +1,1 @@
-var takeANumber
+var takeANumber = []

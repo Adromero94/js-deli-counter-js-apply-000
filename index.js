@@ -1,1 +1,3 @@
-var takeANumber = []
+var takeANumber = [number, name]; {
+  
+}
